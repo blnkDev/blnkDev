@@ -11,9 +11,6 @@
 
 📍 Brazil  
 
-I enjoy turning ideas into structured, scalable and visually strong systems — 
-from interactive websites to complete software solutions.
-
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Languages
@@ -30,12 +27,6 @@ from interactive websites to complete software solutions.
 - Photoshop
 - Adobe After Effects
 - VS Code
-
-## 🎯 Current Focus
-
-- Improving system architecture skills
-- Developing and learning with games
-- Strengthening clean code practices
 
 <h1 align="center">Featured Projects</h1>
 
