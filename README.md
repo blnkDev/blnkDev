@@ -29,23 +29,22 @@
 📍 Brazil  
 
 ---
-
 ## 🧠 Tech Stack
 
-### 👨‍💻 Languages
-- JavaScript
-- Python
-- Luau
-- HTML & CSS
+<h3 align="center">Development</h3>
 
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- Vercel
-- Construct
-- Aseprite
-- Photoshop
-- Adobe After Effects
-- VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode&theme=dark"/>
+</p>
+
+<h3 align="center">Game Dev & Design</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Construct_2-0099FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop"/>
+  <img src="https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects"/>
+</p>
 
 ---
 <!-- <picture align="center">
