@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Oliveira Neto</h1>
+<h3 align="center">Web Systems • Interactive Design • Game Development</h3>
 
-<!--
-**blnkDev/blnkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+💻 Developer focused on building useful and well-structured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 2D Game Developer focused on gameplay systems and visual polish
+
+🌐 Creator of modern web experiences
+
+📍 Brazil  
+
+I enjoy turning ideas into structured, scalable and visually strong systems — 
+from interactive websites to complete software solutions.
+
+## 🧠 Tech Stack
+
+### 👨‍💻 Languages
+- JavaScript
+- Python
+- Luau
+- HTML & CSS
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- Vercel
+- Construct
+- Aseprite
+- Photoshop
+- Adobe After Effects
+- VS Code
+
+## 🎯 Current Focus
+
+- Improving system architecture skills
+- Developing and learning with games
+- Strengthening clean code practices
+
+<h1 align="center">Featured Projects</h1>
+
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzEzNjk1MjkxLnBuZw==/original/%2BcJ%2BkM.png" width="600"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.itch.zone/aW1hZ2UvMjMxMTIxNS8xMzY5NTMxMi5wbmc=/original/CatI4K.png" width="600"/>
+</p>
+
+<p align="center">
+  <a href="https://bol-l.itch.io/">
+    <img src="https://img.shields.io/badge/Play_on_Itch.io-Mushring-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://img.itch.zone/aW1nLzEzNjk4NzM0LmdpZg==/original/EQTPom.gif" width="300"/>
+
+
+**Mushring** is a 2D aesthetic-driven project focused on gameplay responsiveness and visual clarity.
+
+The goal was to explore how far I could push visual quality and atmosphere using minimal external assets.
+
+Inspired by a project created by DaFluffyPotato during the 14th Alakajam.
+
+### 🧠 Core Design Focus
+- Precise player movement
+- Clean and readable pixel art
+- Custom lighting system built from scratch
+- Visual coherence and atmosphere
+
+### ⚙️ Built With
+- Construct 2
+- Aseprite
