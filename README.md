@@ -1,7 +1,7 @@
-<h1 align="center">Oliveira Neto</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=180&section=header&text=Oliveira%20Neto&fontSize=40&fontColor=ffffff"/>
+</p>
 <h3 align="center">Web Systems • Interactive Design • Game Development</h3>
-
----
 
 ## 🚀 About Me
 
