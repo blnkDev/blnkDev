@@ -1,15 +1,19 @@
 <h1 align="center">Oliveira Neto</h1>
 <h3 align="center">Web Systems • Interactive Design • Game Development</h3>
 
+---
+
 ## 🚀 About Me
 
-💻 Developer focused on building useful and well-structured projects
+💻 Developer focused on building useful, well-structured and scalable projects  
 
-🎮 2D Game Developer focused on gameplay systems and visual polish
+🎮 2D Game Developer specialized in gameplay systems and visual polish  
 
-🌐 Creator of modern web experiences
+🌐 Creator of modern and strategic web experiences  
 
 📍 Brazil  
+
+---
 
 ## 🧠 Tech Stack
 
@@ -28,16 +32,16 @@
 - Adobe After Effects
 - VS Code
 
-<h1 align="center">Featured Projects</h1>
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1nLzEzNjk1MjkxLnBuZw==/original/%2BcJ%2BkM.png" width="600"/>
-</p>
-
 ---
 
+# 🍄 Featured Project — Mushring
+
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMjMxMTIxNS8xMzY5NTMxMi5wbmc=/original/CatI4K.png" width="600"/>
+  <img src="https://img.itch.zone/aW1hZ2UvMjMxMTIxNS8xMzY5NTMxMi5wbmc=/original/CatI4K.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzEzNjk4NzM0LmdpZg==/original/EQTPom.gif" width="500"/>
 </p>
 
 <p align="center">
@@ -46,21 +50,22 @@
   </a>
 </p>
 
-<img src="https://img.itch.zone/aW1nLzEzNjk4NzM0LmdpZg==/original/EQTPom.gif" width="300"/>
+**Mushring** is a 2D aesthetic-driven project designed with a strong focus on gameplay responsiveness, visual clarity and atmosphere.
 
+The project was an exploration of how far visual quality and immersion could be pushed using minimal external assets and custom-built systems.
 
-**Mushring** is a 2D aesthetic-driven project focused on gameplay responsiveness and visual clarity.
+Inspired by a game created by DaFluffyPotato during the 14th Alakajam.
 
-The goal was to explore how far I could push visual quality and atmosphere using minimal external assets.
-
-Inspired by a project created by DaFluffyPotato during the 14th Alakajam.
+---
 
 ### 🧠 Core Design Focus
-- Precise player movement
-- Clean and readable pixel art
-- Custom lighting system built from scratch
-- Visual coherence and atmosphere
+- Precise and responsive player movement  
+- Clean, readable and cohesive pixel art  
+- Custom lighting system built from scratch  
+- Strong visual identity and atmosphere  
+
+---
 
 ### ⚙️ Built With
-- Construct 2
-- Aseprite
+- Construct 2  
+- Aseprite  
