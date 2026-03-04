@@ -5,6 +5,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Web+Systems;Game+Developer;Interactive+Designer"/>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,ps,ae&theme=dark"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
 <!-- <h3 align="center">Web Systems • Interactive Design • Game Development</h3> -->
 
 ## 🚀 About Me
