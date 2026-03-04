@@ -40,12 +40,11 @@
 <h3 align="center">Game Dev & Design</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Construct_2-0099FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop"/>
-  <img src="https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/960px-Construct_3_Logo.svg.png" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1280px-Logo_Aseprite.svg.png" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/3840px-Adobe_After_Effects_CC_icon.svg.png" height="50"/>
 </p>
-
 ---
 <!-- <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blnkDev/blnkDev/output/github-contribution-grid-snake-dark.svg">
