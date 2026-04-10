@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=180&section=header&text=Oliveira%20Neto&fontSize=40&fontColor=ffffff"/>
 </p>
+<!-- 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Web+Systems;Game+Developer;Interactive+Designer"/>
 </p>
