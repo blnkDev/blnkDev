@@ -41,7 +41,8 @@
 <h3 align="center">Tools & Workflow</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=discord,git,github,vscode,vercel&theme=dark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Fl_studio_logo.png" height="50"/>
 </p>
 
 <h3 align="center">Game Dev & Design</h3>
