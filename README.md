@@ -19,7 +19,7 @@
 
 <!-- <h3 align="center">Web Systems • Interactive Design • Game Development</h3> -->
 
-## 🚀 About Metete
+## 🚀 About Me
 
 💻 Developer focused on building useful, well-structured and scalable projects  
 
