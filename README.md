@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,ps,ae&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,figma,github,vscode,ps,ae&theme=dark"/>
 </p>
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
@@ -19,7 +19,7 @@
 
 <!-- <h3 align="center">Web Systems • Interactive Design • Game Development</h3> -->
 
-## 🚀 About Me
+## 🚀 About Metete
 
 💻 Developer focused on building useful, well-structured and scalable projects  
 
@@ -32,19 +32,27 @@
 ---
 ## 🧠 Tech Stack
 
-<h3 align="center">Development</h3>
+<h3 align="center">Core Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,lua,mysql&theme=dark"/>
+</p>
+
+<h3 align="center">Tools & Workflow</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark"/>
 </p>
 
 <h3 align="center">Game Dev & Design</h3>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/960px-Construct_3_Logo.svg.png" height="50"/>
+  <img src="https://skillicons.dev/icons?i=robloxstudio&theme=dark"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1280px-Logo_Aseprite.svg.png" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/3840px-Adobe_After_Effects_CC_icon.svg.png" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
 </p>
 
 <!-- <picture align="center">
